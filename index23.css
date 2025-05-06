@@ -153,6 +153,7 @@ body {
     color: #383838;
     font-family: 'Poppins', sans-serif;
     max-width: auto;
+
   }
 
  .subtext2{
@@ -197,13 +198,13 @@ body {
       max-width: 90%;
       color: rgb(255, 255, 255);
       background-color: #ffffff;
-      margin-top: -5%;
+      margin-top: 20%;
       border-radius: 5%;
     }
 
     .text-div2 {
-
-      top: 55%;
+      font-size: .5rem;
+      top: 80%;
     }
 
   .myimg {
@@ -221,12 +222,12 @@ body {
       color: rgb(100, 100, 100);
     }
     .subtext2{
-      font-size: 1rem;
+      font-size: .8rem;
       font-weight: 300;
       max-width: 90%;
       left: 5%;
       right: 5%;
-      margin-top: 30%;
+      margin-top: 20%;
     }
     .logo{
       margin-left: -160px;
@@ -358,7 +359,8 @@ margin-bottom: 50px;
       text-align: center;     /* optional: center text inside */
     }
     .simple-button2 {
-      margin-left: -10px;
+      margin-top: 30%;
+      margin-left: -55px;
     }
   }
 
